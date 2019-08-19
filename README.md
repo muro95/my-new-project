@@ -1,5 +1,1 @@
-# my-new-project
-# my-new-project
-# my-new-project
-# my-new-project
-# my-new-project1
+this is my first reoository on GitHub
